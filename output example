@@ -1,0 +1,26 @@
+========== Library Management System ==========
+1. Insert Book
+2. Delete Book
+3. Search Book
+4. Display Books
+5. Issue Book
+6. Return Book
+7. Undo Last Transaction
+8. View Transactions
+9. Exit
+Enter your choice: 1
+Enter Book ID: 12
+Enter Book Title: The prophy
+Enter Author Name: pablo
+Book inserted successfully!
+
+Enter your choice: 5
+Enter Book ID to issue: 12
+Book issued successfully!
+
+Enter your choice: 7
+Undo successful: Book returned to library.
+
+Enter your choice: 4
+Current Book List:
+Book ID: 12 | Title: The prophy | Author: Pablo | Status: Available
